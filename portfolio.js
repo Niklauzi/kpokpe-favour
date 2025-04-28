@@ -74,4 +74,4 @@ window.addEventListener('scroll', () => {
   });
 });
 
-console.log('i can see you');
+console.log('I 4 see you');
